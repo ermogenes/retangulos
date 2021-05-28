@@ -23,7 +23,7 @@ Retângulo somente em contorno:
 
 ## Download
 
-[🔽 Baixar o programa](dist/retangulos.zip)
+[🔽 Baixar o programa](https://github.com/ermogenes/retangulos/raw/main/dist/retangulos.zip)
 
 ## Créditos
 
